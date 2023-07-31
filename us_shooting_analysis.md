@@ -154,7 +154,8 @@ ggplot(data = data_summary, mapping = aes(x= state_gov, y = shootings)) +
   geom_boxplot()
 ```
 
-![](us_shooting_analysis_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![unnamed-chunk-5-1](https://github.com/MiguelOmarBH/US_shootings_hypothesis_contrast/assets/135857016/ff6588ed-9623-4b69-bc9a-9314be58c57e)
+
 
 The summary table and the boxplot gave us an interesting insight: the
 democrat supportive states have a higher shooting rate, but also a
